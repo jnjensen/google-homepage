@@ -1,0 +1,1 @@
+Started on May 14th, 2020. Begining project after completing the Responsive Web Design Certification from FreeCodeCamp.org. 
