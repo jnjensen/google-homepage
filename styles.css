@@ -1,0 +1,38 @@
+#first_half_nav ul{
+    display: grid;
+    grid-template-columns: repeat(2, 75px);
+    list-style-type: none;
+    position: fixed;
+  }
+  
+  #second_half_nav ul{
+    display: grid;
+    grid-template-columns: 75px 75px 50px 75px;
+    list-style-type: none;
+    position: fixed;
+    top: 5px;
+    right: 5px;
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  
+  #boxes{
+    background-image: url(//ssl.gstatic.com/gb/images/i1_1967ca6a.png);
+    background-size: 500px 75px;
+    width: 25px;
+    background-position: -132px -50px;
+    margin-right: 0px;
+  }
+
+  #signin{
+    background-color: #0066ff;
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+    margin: 0px;
+    position: relative;
+    bottom: 10px;
+  }
